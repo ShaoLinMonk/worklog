@@ -1,3 +1,4 @@
 # My Awesome Book
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This book only records what I have learnt recently. It is mainly used as a reminder to myself. Hopefully it could help others as well.
+
